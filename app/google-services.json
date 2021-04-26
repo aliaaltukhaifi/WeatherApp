@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954188853932",
+    "project_id": "finalproject-aliyah",
+    "storage_bucket": "finalproject-aliyah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954188853932:android:425c1c4a79775bfc9fa509",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954188853932-vdobams0fh2ejvlo9t2fim0m88belpga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4SBvhbP1_XTL37PlitjHVM12WTG3unPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954188853932-vdobams0fh2ejvlo9t2fim0m88belpga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
